@@ -1,0 +1,211 @@
+new mode 100644
+index 063bc68..e4eef80
+--- a/shmoop/blt/index.html
++++ b/shmoop/blt/index.html
+--
+ <div class="content">
+ <h1>ShmoopBLTSkrunkleDonk_V</h1>
+-<p>Reconfigured insanity, late January '23</p>
++<p>Reconfigured insanity, updated april 16th</p>
+--
+ <td>
+ <p>Shield</p>
+-<img class="equip-img" src="blt_img_8.png" alt="Kite Shield">
++<img class="equip-img" src="blt_img_8.png" alt="Iron Round Shield">
+--
+ <td>
+ <p>ThrowingJavelins</p>
+-<img class="equip-img" src="blt_img_9.png" alt="Jagged Javelin">
++<img class="equip-img" src="blt_img_9.png" alt="Harpoon">
+--
+ <td>
+ <p>ThrowingJavelins</p>
+-<img class="equip-img" src="blt_img_10.png" alt="Jagged Javelin">
++<img class="equip-img" src="blt_img_10.png" alt="Harpoon">
+--
+ <p>Crush Through I: 15% Unblockable / 15% Shatter Shield</p>
+ <p>Heavy Hitting I: 125.0% dmg</p>
++<p>Ignore Armor I: Ignore 15% Armor</p>
++<p>Ignore Armor II: Ignore 30% Armor</p>
++<p>Ignore Armor III: Ignore 60% Armor</p>
+--
+ <td>
+ <p>OneHandedAxe</p>
+-<img class="equip-img" src="blt_img_20.png" alt="Sickle">
++<img class="equip-img" src="blt_img_20.png" alt="Commoner Axe">
+--
+ <td>
+ <p>TwoHandedAxe</p>
+-<img class="equip-img" src="blt_img_30.png" alt="Black Heart">
++<img class="equip-img" src="blt_img_30.png" alt="Heavy Executioner Axe">
+--
+ <td>
+ <p>OneHandedLance</p>
+-<img class="equip-img" src="blt_img_57.png" alt="Heavy Knight Lance">
++<img class="equip-img" src="blt_img_57.png" alt="Long Thamaskene Tipped Spear">
+--
+ <td>
+ <p>Shield</p>
+-<img class="equip-img" src="blt_img_58.png" alt="Kite Shield">
++<img class="equip-img" src="blt_img_58.png" alt="Iron Round Shield">
+--
+ <td>
+ <p>Horse</p>
+-<img class="equip-img" src="blt_img_60.png" alt="Tyal Horse">
++<img class="equip-img" src="blt_img_60.png" alt="Palmatian">
+--
+ <td>
+ <p>OneHandedLance</p>
+-<img class="equip-img" src="blt_img_67.png" alt="Heavy Knight Lance">
++<img class="equip-img" src="blt_img_67.png" alt="Long Thamaskene Tipped Spear">
+--
+ <td>
+ <p>Shield</p>
+-<img class="equip-img" src="blt_img_68.png" alt="Kite Shield">
++<img class="equip-img" src="blt_img_68.png" alt="Iron Round Shield">
+--
+ <td>
+ <p>Camel</p>
+-<img class="equip-img" src="blt_img_70.png" alt="War Camel">
++<img class="equip-img" src="blt_img_70.png" alt="Husnphree">
+--
+ <td>
+ <p>Horse</p>
+-<img class="equip-img" src="blt_img_81.png" alt="Tyal Horse">
++<img class="equip-img" src="blt_img_81.png" alt="Palmatian">
+--
+ <td>
+ <p>Camel</p>
+-<img class="equip-img" src="blt_img_92.png" alt="War Camel">
++<img class="equip-img" src="blt_img_92.png" alt="Husnphree">
+--
+ <td>
+ <p>ThrowingJavelins</p>
+-<img class="equip-img" src="blt_img_100.png" alt="Jagged Javelin">
++<img class="equip-img" src="blt_img_100.png" alt="Harpoon">
+--
+ <td>
+ <p>ThrowingJavelins</p>
+-<img class="equip-img" src="blt_img_101.png" alt="Jagged Javelin">
++<img class="equip-img" src="blt_img_101.png" alt="Harpoon">
+--
+ <td>
+ <p>Horse</p>
+-<img class="equip-img" src="blt_img_102.png" alt="Tyal Horse">
++<img class="equip-img" src="blt_img_102.png" alt="Palmatian">
+--
+ <p>Retribution III: Reflect 50% damage</p>
+ <p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
++<p>Healthy I: 150% HP</p>
++<p>Healthy II: 200% HP</p>
++<p>Healthy III: 250% HP</p>
+--
+ <td>
+ <p>TwoHandedAxe</p>
+-<img class="equip-img" src="blt_img_109.png" alt="Black Heart">
++<img class="equip-img" src="blt_img_109.png" alt="Heavy Executioner Axe">
+--
+ <p>Heavy Hitting III: 200.0% dmg</p>
+ <p>Imposing: Scale 120% </p>
+-<p>Knock Down I: Add: 15% Knock Down</p>
+-<p>Zerker Vampiric I: Absorb 35% of damage dealt as HP</p>
+-<p>Zerker Vampiric II: Absorb 25% of damage dealt as HP</p>
+-<p>Zerker Vampiric III: Absorb 15% of damage dealt as HP</p>
++<p>Zerker Vampiric I: Absorb 40% of damage dealt as HP</p>
++<p>Zerker Vampiric II: Absorb 20% of damage dealt as HP</p>
++<p>Zerker Vampiric III: Absorb 10% of damage dealt as HP</p>
+--
+ <td>Gold Per Kill</td>
+ <td>
+-<p>5000</p>
++<p>20000</p>
+--
+ <td>XP Per Kill</td>
+ <td>
+-<p>5000</p>
++<p>20000</p>
+--
+ <td>XP Per Killed</td>
+ <td>
+-<p>5000</p>
++<p>20000</p>
+--
+ <td>Retinue Gold Per Kill</td>
+ <td>
+-<p>2500</p>
++<p>5000</p>
+--
+ <td>Win Gold</td>
+ <td>
+-<p>1000</p>
++<p>5000</p>
+--
+ <td>Win XP</td>
+ <td>
+-<p>5000</p>
++<p>50000</p>
+--
+ <td>Lose XP</td>
+ <td>
+-<p>25000</p>
++<p>100000</p>
+--
+ <td>Floor Percent</td>
+ <td>
+-<p>65</p>
++<p>50</p>
+--
+ <td>Win Gold</td>
+ <td>
+-<p>5000</p>
++<p>10000</p>
+--
+ <td>Win XP</td>
+ <td>
+-<p>5000</p>
++<p>50000</p>
+--
+ <td>Lose XP</td>
+ <td>
+-<p>20000</p>
++<p>0</p>
+--
+ <td>Win Gold</td>
+ <td>
+-<p>5000</p>
++<p>10000</p>
+--
+ <td>Lose XP</td>
+ <td>
+-<p>10000</p>
++<p>0</p>
+--
+ <td>Win Gold</td>
+ <td>
+-<p>10000</p>
++<p>20000</p>
+--
+ <td>Lose XP</td>
+ <td>
+-<p>5000</p>
++<p>0</p>
+--
+ <td>Lose XP</td>
+ <td>
+-<p>-1</p>
++<p>0</p>
+--
+ <td>Win Gold</td>
+ <td>
+-<p>30000</p>
++<p>60000</p>
+--
+ <td>Win XP</td>
+ <td>
+-<p>25000</p>
++<p>100000</p>
+--
+ <td>Participate XP</td>
+ <td>
+-<p>15000</p>
++<p>50000</p>
