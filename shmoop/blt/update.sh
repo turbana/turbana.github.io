@@ -11,7 +11,7 @@ archive=$(ls -1t ${DOWNLOAD_DIR}/${DOWNLOAD_GLOB} | head -n1)
 
 ## check for correct file
 echo "Found: $(ls -lt $archive | tail -n1)"
-read -n1 -p "Continue? (y/n) " response
+read -n 1 -p "Continue? (y/n) " response
 echo
 [[ "y" == "${response}" ]] || exit 1
 
