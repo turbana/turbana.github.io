@@ -1,426 +1,465 @@
 diff --git a/shmoop/blt/changelog.txt b/shmoop/blt/changelog.txt
-index 7afbecf..e69de29 100644
+index 17f3562..e69de29 100644
 --- a/shmoop/blt/changelog.txt
 +++ b/shmoop/blt/changelog.txt
-@@ -1,402 +0,0 @@
+@@ -1,426 +0,0 @@
 -diff --git a/shmoop/blt/changelog.txt b/shmoop/blt/changelog.txt
--index 859a01d..e69de29 100644
+-index 7afbecf..e69de29 100644
 ---- a/shmoop/blt/changelog.txt
 -+++ b/shmoop/blt/changelog.txt
--@@ -1,211 +0,0 @@
---new mode 100644
---index 063bc68..e4eef80
+-@@ -1,402 +0,0 @@
+--diff --git a/shmoop/blt/changelog.txt b/shmoop/blt/changelog.txt
+--index 859a01d..e69de29 100644
+----- a/shmoop/blt/changelog.txt
+--+++ b/shmoop/blt/changelog.txt
+--@@ -1,211 +0,0 @@
+---new mode 100644
+---index 063bc68..e4eef80
+------ a/shmoop/blt/index.html
+---+++ b/shmoop/blt/index.html
+-----
+--- <div class="content">
+--- <h1>ShmoopBLTSkrunkleDonk_V</h1>
+----<p>Reconfigured insanity, late January '23</p>
+---+<p>Reconfigured insanity, updated april 16th</p>
+-----
+--- <td>
+--- <p>Shield</p>
+----<img class="equip-img" src="blt_img_8.png" alt="Kite Shield">
+---+<img class="equip-img" src="blt_img_8.png" alt="Iron Round Shield">
+-----
+--- <td>
+--- <p>ThrowingJavelins</p>
+----<img class="equip-img" src="blt_img_9.png" alt="Jagged Javelin">
+---+<img class="equip-img" src="blt_img_9.png" alt="Harpoon">
+-----
+--- <td>
+--- <p>ThrowingJavelins</p>
+----<img class="equip-img" src="blt_img_10.png" alt="Jagged Javelin">
+---+<img class="equip-img" src="blt_img_10.png" alt="Harpoon">
+-----
+--- <p>Crush Through I: 15% Unblockable / 15% Shatter Shield</p>
+--- <p>Heavy Hitting I: 125.0% dmg</p>
+---+<p>Ignore Armor I: Ignore 15% Armor</p>
+---+<p>Ignore Armor II: Ignore 30% Armor</p>
+---+<p>Ignore Armor III: Ignore 60% Armor</p>
+-----
+--- <td>
+--- <p>OneHandedAxe</p>
+----<img class="equip-img" src="blt_img_20.png" alt="Sickle">
+---+<img class="equip-img" src="blt_img_20.png" alt="Commoner Axe">
+-----
+--- <td>
+--- <p>TwoHandedAxe</p>
+----<img class="equip-img" src="blt_img_30.png" alt="Black Heart">
+---+<img class="equip-img" src="blt_img_30.png" alt="Heavy Executioner Axe">
+-----
+--- <td>
+--- <p>OneHandedLance</p>
+----<img class="equip-img" src="blt_img_57.png" alt="Heavy Knight Lance">
+---+<img class="equip-img" src="blt_img_57.png" alt="Long Thamaskene Tipped Spear">
+-----
+--- <td>
+--- <p>Shield</p>
+----<img class="equip-img" src="blt_img_58.png" alt="Kite Shield">
+---+<img class="equip-img" src="blt_img_58.png" alt="Iron Round Shield">
+-----
+--- <td>
+--- <p>Horse</p>
+----<img class="equip-img" src="blt_img_60.png" alt="Tyal Horse">
+---+<img class="equip-img" src="blt_img_60.png" alt="Palmatian">
+-----
+--- <td>
+--- <p>OneHandedLance</p>
+----<img class="equip-img" src="blt_img_67.png" alt="Heavy Knight Lance">
+---+<img class="equip-img" src="blt_img_67.png" alt="Long Thamaskene Tipped Spear">
+-----
+--- <td>
+--- <p>Shield</p>
+----<img class="equip-img" src="blt_img_68.png" alt="Kite Shield">
+---+<img class="equip-img" src="blt_img_68.png" alt="Iron Round Shield">
+-----
+--- <td>
+--- <p>Camel</p>
+----<img class="equip-img" src="blt_img_70.png" alt="War Camel">
+---+<img class="equip-img" src="blt_img_70.png" alt="Husnphree">
+-----
+--- <td>
+--- <p>Horse</p>
+----<img class="equip-img" src="blt_img_81.png" alt="Tyal Horse">
+---+<img class="equip-img" src="blt_img_81.png" alt="Palmatian">
+-----
+--- <td>
+--- <p>Camel</p>
+----<img class="equip-img" src="blt_img_92.png" alt="War Camel">
+---+<img class="equip-img" src="blt_img_92.png" alt="Husnphree">
+-----
+--- <td>
+--- <p>ThrowingJavelins</p>
+----<img class="equip-img" src="blt_img_100.png" alt="Jagged Javelin">
+---+<img class="equip-img" src="blt_img_100.png" alt="Harpoon">
+-----
+--- <td>
+--- <p>ThrowingJavelins</p>
+----<img class="equip-img" src="blt_img_101.png" alt="Jagged Javelin">
+---+<img class="equip-img" src="blt_img_101.png" alt="Harpoon">
+-----
+--- <td>
+--- <p>Horse</p>
+----<img class="equip-img" src="blt_img_102.png" alt="Tyal Horse">
+---+<img class="equip-img" src="blt_img_102.png" alt="Palmatian">
+-----
+--- <p>Retribution III: Reflect 50% damage</p>
+--- <p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
+---+<p>Healthy I: 150% HP</p>
+---+<p>Healthy II: 200% HP</p>
+---+<p>Healthy III: 250% HP</p>
+-----
+--- <td>
+--- <p>TwoHandedAxe</p>
+----<img class="equip-img" src="blt_img_109.png" alt="Black Heart">
+---+<img class="equip-img" src="blt_img_109.png" alt="Heavy Executioner Axe">
+-----
+--- <p>Heavy Hitting III: 200.0% dmg</p>
+--- <p>Imposing: Scale 120% </p>
+----<p>Knock Down I: Add: 15% Knock Down</p>
+----<p>Zerker Vampiric I: Absorb 35% of damage dealt as HP</p>
+----<p>Zerker Vampiric II: Absorb 25% of damage dealt as HP</p>
+----<p>Zerker Vampiric III: Absorb 15% of damage dealt as HP</p>
+---+<p>Zerker Vampiric I: Absorb 40% of damage dealt as HP</p>
+---+<p>Zerker Vampiric II: Absorb 20% of damage dealt as HP</p>
+---+<p>Zerker Vampiric III: Absorb 10% of damage dealt as HP</p>
+-----
+--- <td>Gold Per Kill</td>
+--- <td>
+----<p>5000</p>
+---+<p>20000</p>
+-----
+--- <td>XP Per Kill</td>
+--- <td>
+----<p>5000</p>
+---+<p>20000</p>
+-----
+--- <td>XP Per Killed</td>
+--- <td>
+----<p>5000</p>
+---+<p>20000</p>
+-----
+--- <td>Retinue Gold Per Kill</td>
+--- <td>
+----<p>2500</p>
+---+<p>5000</p>
+-----
+--- <td>Win Gold</td>
+--- <td>
+----<p>1000</p>
+---+<p>5000</p>
+-----
+--- <td>Win XP</td>
+--- <td>
+----<p>5000</p>
+---+<p>50000</p>
+-----
+--- <td>Lose XP</td>
+--- <td>
+----<p>25000</p>
+---+<p>100000</p>
+-----
+--- <td>Floor Percent</td>
+--- <td>
+----<p>65</p>
+---+<p>50</p>
+-----
+--- <td>Win Gold</td>
+--- <td>
+----<p>5000</p>
+---+<p>10000</p>
+-----
+--- <td>Win XP</td>
+--- <td>
+----<p>5000</p>
+---+<p>50000</p>
+-----
+--- <td>Lose XP</td>
+--- <td>
+----<p>20000</p>
+---+<p>0</p>
+-----
+--- <td>Win Gold</td>
+--- <td>
+----<p>5000</p>
+---+<p>10000</p>
+-----
+--- <td>Lose XP</td>
+--- <td>
+----<p>10000</p>
+---+<p>0</p>
+-----
+--- <td>Win Gold</td>
+--- <td>
+----<p>10000</p>
+---+<p>20000</p>
+-----
+--- <td>Lose XP</td>
+--- <td>
+----<p>5000</p>
+---+<p>0</p>
+-----
+--- <td>Lose XP</td>
+--- <td>
+----<p>-1</p>
+---+<p>0</p>
+-----
+--- <td>Win Gold</td>
+--- <td>
+----<p>30000</p>
+---+<p>60000</p>
+-----
+--- <td>Win XP</td>
+--- <td>
+----<p>25000</p>
+---+<p>100000</p>
+-----
+--- <td>Participate XP</td>
+--- <td>
+----<p>15000</p>
+---+<p>50000</p>
+--diff --git a/shmoop/blt/index.html b/shmoop/blt/index.html
+--index 00d8021..595de25 100644
 ----- a/shmoop/blt/index.html
 --+++ b/shmoop/blt/index.html
 ----
--- <div class="content">
 -- <h1>ShmoopBLTSkrunkleDonk_V</h1>
----<p>Reconfigured insanity, late January '23</p>
---+<p>Reconfigured insanity, updated april 16th</p>
+-- <p>Reconfigured insanity, updated april 16th</p>
+---<a href="changelog.txt">Changelog for 2023-04-16</a>.<div class="toc-container">
+--+<div class="toc-container">
+----
+-- <td>
+-- <p>OneHandedSword</p>
+---<img class="equip-img" src="blt_img_7.png" alt="Long Saber">
+--+<img class="equip-img" src="blt_img_7.png" alt="Dawnbreaker">
 ----
 -- <td>
 -- <p>Shield</p>
----<img class="equip-img" src="blt_img_8.png" alt="Kite Shield">
---+<img class="equip-img" src="blt_img_8.png" alt="Iron Round Shield">
+---<img class="equip-img" src="blt_img_8.png" alt="Iron Round Shield">
+--+<img class="equip-img" src="blt_img_8.png" alt="Makeshift Kite Shield">
 ----
 -- <td>
 -- <p>ThrowingJavelins</p>
----<img class="equip-img" src="blt_img_9.png" alt="Jagged Javelin">
---+<img class="equip-img" src="blt_img_9.png" alt="Harpoon">
+---<img class="equip-img" src="blt_img_9.png" alt="Harpoon">
+--+<img class="equip-img" src="blt_img_9.png" alt="Javelin">
 ----
 -- <td>
 -- <p>ThrowingJavelins</p>
----<img class="equip-img" src="blt_img_10.png" alt="Jagged Javelin">
---+<img class="equip-img" src="blt_img_10.png" alt="Harpoon">
+---<img class="equip-img" src="blt_img_10.png" alt="Harpoon">
+--+<img class="equip-img" src="blt_img_10.png" alt="Javelin">
 ----
+-- <p>Athletic III: Athletics: +100</p>
 -- <p>Crush Through I: 15% Unblockable / 15% Shatter Shield</p>
--- <p>Heavy Hitting I: 125.0% dmg</p>
---+<p>Ignore Armor I: Ignore 15% Armor</p>
---+<p>Ignore Armor II: Ignore 30% Armor</p>
---+<p>Ignore Armor III: Ignore 60% Armor</p>
+---<p>Heavy Hitting I: 125.0% dmg</p>
+--+<p>Heavy Hitting III: 200.0% dmg</p>
+----
+-- <p class=power-title>Fireblade</p>
+-- <p>[Fireblade I: Swing Speed Multiplier: 115% Melee: +25] requires CLASS LEVEL 1</p>
+---<p>[Ignore Armor I: Ignore 15% Armor] requires CLASS LEVEL 1</p>
+-- <p>[Fireblade II: Swing Speed Multiplier: 130% Melee: +50] requires CLASS LEVEL 2</p>
+---<p>[Ignore Armor II: Ignore 30% Armor] requires CLASS LEVEL 2</p>
+-- <p>[Fireblade III: Swing Speed Multiplier: 150% Melee: +100] requires CLASS LEVEL 3</p>
+---<p>[Ignore Armor III: Ignore 60% Armor] requires CLASS LEVEL 3</p>
 ----
 -- <td>
--- <p>OneHandedAxe</p>
----<img class="equip-img" src="blt_img_20.png" alt="Sickle">
---+<img class="equip-img" src="blt_img_20.png" alt="Commoner Axe">
+-- <p>Bow</p>
+---<img class="equip-img" src="blt_img_17.png" alt="Ranger Bow">
+--+<img class="equip-img" src="blt_img_17.png" alt="Mountain Hunting Bow">
 ----
 -- <td>
--- <p>TwoHandedAxe</p>
----<img class="equip-img" src="blt_img_30.png" alt="Black Heart">
---+<img class="equip-img" src="blt_img_30.png" alt="Heavy Executioner Axe">
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_18.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_18.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_19.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_19.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>Bow</p>
+---<img class="equip-img" src="blt_img_27.png" alt="Ranger Bow">
+--+<img class="equip-img" src="blt_img_27.png" alt="Mountain Hunting Bow">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_28.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_28.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_29.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_29.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>OneHandedSword</p>
+---<img class="equip-img" src="blt_img_40.png" alt="Long Saber">
+--+<img class="equip-img" src="blt_img_40.png" alt="Dawnbreaker">
 ----
 -- <td>
 -- <p>OneHandedLance</p>
----<img class="equip-img" src="blt_img_57.png" alt="Heavy Knight Lance">
---+<img class="equip-img" src="blt_img_57.png" alt="Long Thamaskene Tipped Spear">
+---<img class="equip-img" src="blt_img_57.png" alt="Long Thamaskene Tipped Spear">
+--+<img class="equip-img" src="blt_img_57.png" alt="Fine Steel Spear">
 ----
 -- <td>
 -- <p>Shield</p>
----<img class="equip-img" src="blt_img_58.png" alt="Kite Shield">
---+<img class="equip-img" src="blt_img_58.png" alt="Iron Round Shield">
+---<img class="equip-img" src="blt_img_58.png" alt="Iron Round Shield">
+--+<img class="equip-img" src="blt_img_58.png" alt="Makeshift Kite Shield">
+----
+-- <td>
+-- <p>OneHandedSword</p>
+---<img class="equip-img" src="blt_img_59.png" alt="Long Saber">
+--+<img class="equip-img" src="blt_img_59.png" alt="Dawnbreaker">
 ----
 -- <td>
 -- <p>Horse</p>
----<img class="equip-img" src="blt_img_60.png" alt="Tyal Horse">
---+<img class="equip-img" src="blt_img_60.png" alt="Palmatian">
+---<img class="equip-img" src="blt_img_60.png" alt="Palmatian">
+--+<img class="equip-img" src="blt_img_60.png" alt="Royal Destrier">
 ----
 -- <td>
 -- <p>OneHandedLance</p>
----<img class="equip-img" src="blt_img_67.png" alt="Heavy Knight Lance">
---+<img class="equip-img" src="blt_img_67.png" alt="Long Thamaskene Tipped Spear">
+---<img class="equip-img" src="blt_img_67.png" alt="Long Thamaskene Tipped Spear">
+--+<img class="equip-img" src="blt_img_67.png" alt="Fine Steel Spear">
 ----
 -- <td>
 -- <p>Shield</p>
----<img class="equip-img" src="blt_img_68.png" alt="Kite Shield">
---+<img class="equip-img" src="blt_img_68.png" alt="Iron Round Shield">
+---<img class="equip-img" src="blt_img_68.png" alt="Iron Round Shield">
+--+<img class="equip-img" src="blt_img_68.png" alt="Makeshift Kite Shield">
 ----
 -- <td>
--- <p>Camel</p>
----<img class="equip-img" src="blt_img_70.png" alt="War Camel">
---+<img class="equip-img" src="blt_img_70.png" alt="Husnphree">
+-- <p>OneHandedMace</p>
+---<img class="equip-img" src="blt_img_69.png" alt="Heavy Horsemans Mace">
+--+<img class="equip-img" src="blt_img_69.png" alt="Militia Pernach">
+----
+-- <td>
+-- <p>Bow</p>
+---<img class="equip-img" src="blt_img_77.png" alt="Ranger Bow">
+--+<img class="equip-img" src="blt_img_77.png" alt="Mountain Hunting Bow">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_78.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_78.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_79.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_79.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>OneHandedSword</p>
+---<img class="equip-img" src="blt_img_80.png" alt="Long Saber">
+--+<img class="equip-img" src="blt_img_80.png" alt="Dawnbreaker">
 ----
 -- <td>
 -- <p>Horse</p>
----<img class="equip-img" src="blt_img_81.png" alt="Tyal Horse">
---+<img class="equip-img" src="blt_img_81.png" alt="Palmatian">
+---<img class="equip-img" src="blt_img_81.png" alt="Palmatian">
+--+<img class="equip-img" src="blt_img_81.png" alt="Royal Destrier">
 ----
 -- <td>
--- <p>Camel</p>
----<img class="equip-img" src="blt_img_92.png" alt="War Camel">
---+<img class="equip-img" src="blt_img_92.png" alt="Husnphree">
+-- <p>Bow</p>
+---<img class="equip-img" src="blt_img_88.png" alt="Ranger Bow">
+--+<img class="equip-img" src="blt_img_88.png" alt="Mountain Hunting Bow">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_89.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_89.png" alt="Barbed Arrows">
+----
+-- <td>
+-- <p>Arrows</p>
+---<img class="equip-img" src="blt_img_90.png" alt="Arrows">
+--+<img class="equip-img" src="blt_img_90.png" alt="Barbed Arrows">
 ----
 -- <td>
 -- <p>ThrowingJavelins</p>
----<img class="equip-img" src="blt_img_100.png" alt="Jagged Javelin">
---+<img class="equip-img" src="blt_img_100.png" alt="Harpoon">
+---<img class="equip-img" src="blt_img_100.png" alt="Harpoon">
+--+<img class="equip-img" src="blt_img_100.png" alt="Javelin">
 ----
 -- <td>
 -- <p>ThrowingJavelins</p>
----<img class="equip-img" src="blt_img_101.png" alt="Jagged Javelin">
---+<img class="equip-img" src="blt_img_101.png" alt="Harpoon">
+---<img class="equip-img" src="blt_img_101.png" alt="Harpoon">
+--+<img class="equip-img" src="blt_img_101.png" alt="Javelin">
 ----
 -- <td>
 -- <p>Horse</p>
----<img class="equip-img" src="blt_img_102.png" alt="Tyal Horse">
---+<img class="equip-img" src="blt_img_102.png" alt="Palmatian">
+---<img class="equip-img" src="blt_img_102.png" alt="Palmatian">
+--+<img class="equip-img" src="blt_img_102.png" alt="Royal Destrier">
 ----
+-- <p>Retribution II: Reflect 25% damage</p>
 -- <p>Retribution III: Reflect 50% damage</p>
--- <p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
---+<p>Healthy I: 150% HP</p>
---+<p>Healthy II: 200% HP</p>
+---<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
 --+<p>Healthy III: 250% HP</p>
+-- <p>Healthy I: 150% HP</p>
+-- <p>Healthy II: 200% HP</p>
+---<p>Healthy III: 250% HP</p>
+--+<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
+--+<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
+--+<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
 ----
--- <td>
--- <p>TwoHandedAxe</p>
----<img class="equip-img" src="blt_img_109.png" alt="Black Heart">
---+<img class="equip-img" src="blt_img_109.png" alt="Heavy Executioner Axe">
+-- <p>Zerker Vampiric I: Absorb 40% of damage dealt as HP</p>
+-- <p>Zerker Vampiric II: Absorb 20% of damage dealt as HP</p>
+---<p>Zerker Vampiric III: Absorb 10% of damage dealt as HP</p>
 ----
--- <p>Heavy Hitting III: 200.0% dmg</p>
--- <p>Imposing: Scale 120% </p>
----<p>Knock Down I: Add: 15% Knock Down</p>
----<p>Zerker Vampiric I: Absorb 35% of damage dealt as HP</p>
----<p>Zerker Vampiric II: Absorb 25% of damage dealt as HP</p>
----<p>Zerker Vampiric III: Absorb 15% of damage dealt as HP</p>
---+<p>Zerker Vampiric I: Absorb 40% of damage dealt as HP</p>
---+<p>Zerker Vampiric II: Absorb 20% of damage dealt as HP</p>
---+<p>Zerker Vampiric III: Absorb 10% of damage dealt as HP</p>
-----
--- <td>Gold Per Kill</td>
--- <td>
----<p>5000</p>
---+<p>20000</p>
-----
--- <td>XP Per Kill</td>
--- <td>
----<p>5000</p>
---+<p>20000</p>
-----
--- <td>XP Per Killed</td>
--- <td>
----<p>5000</p>
---+<p>20000</p>
-----
--- <td>Retinue Gold Per Kill</td>
--- <td>
----<p>2500</p>
---+<p>5000</p>
-----
--- <td>Win Gold</td>
--- <td>
----<p>1000</p>
---+<p>5000</p>
-----
--- <td>Win XP</td>
--- <td>
----<p>5000</p>
---+<p>50000</p>
-----
--- <td>Lose XP</td>
--- <td>
----<p>25000</p>
---+<p>100000</p>
-----
--- <td>Floor Percent</td>
--- <td>
----<p>65</p>
---+<p>50</p>
-----
--- <td>Win Gold</td>
--- <td>
----<p>5000</p>
---+<p>10000</p>
-----
--- <td>Win XP</td>
--- <td>
----<p>5000</p>
---+<p>50000</p>
-----
--- <td>Lose XP</td>
--- <td>
----<p>20000</p>
---+<p>0</p>
-----
--- <td>Win Gold</td>
--- <td>
----<p>5000</p>
---+<p>10000</p>
-----
--- <td>Lose XP</td>
--- <td>
----<p>10000</p>
---+<p>0</p>
-----
--- <td>Win Gold</td>
--- <td>
----<p>10000</p>
---+<p>20000</p>
-----
--- <td>Lose XP</td>
--- <td>
----<p>5000</p>
---+<p>0</p>
-----
--- <td>Lose XP</td>
--- <td>
----<p>-1</p>
---+<p>0</p>
-----
--- <td>Win Gold</td>
--- <td>
----<p>30000</p>
---+<p>60000</p>
-----
--- <td>Win XP</td>
--- <td>
----<p>25000</p>
---+<p>100000</p>
-----
--- <td>Participate XP</td>
--- <td>
----<p>15000</p>
---+<p>50000</p>
+-- <p>Explosive Projectiles II: AoE: 75dmg in 4m with  from Ranged</p>
+-- <p>Explosive Projectiles III: AoE: 100dmg in 4m with  from Ranged</p>
+--+<p>Ranger II: AI Shoot Frequency: 200%  AI Wait Before Shoot Factor: 50% Ranged: 150% </p>
 -diff --git a/shmoop/blt/index.html b/shmoop/blt/index.html
--index 00d8021..595de25 100644
+-index 42276c4..595de25 100644
 ---- a/shmoop/blt/index.html
 -+++ b/shmoop/blt/index.html
 ---
 - <h1>ShmoopBLTSkrunkleDonk_V</h1>
 - <p>Reconfigured insanity, updated april 16th</p>
---<a href="changelog.txt">Changelog for 2023-04-16</a>.<div class="toc-container">
+--<a href="changelog.txt">Changelog for 2023-04-30</a>.<div class="toc-container">
 -+<div class="toc-container">
 ---
-- <td>
-- <p>OneHandedSword</p>
---<img class="equip-img" src="blt_img_7.png" alt="Long Saber">
--+<img class="equip-img" src="blt_img_7.png" alt="Dawnbreaker">
+-diff --git a/shmoop/blt/update.sh b/shmoop/blt/update.sh
+-index 5f810e4..69050ca 100755
+---- a/shmoop/blt/update.sh
+-+++ b/shmoop/blt/update.sh
 ---
-- <td>
-- <p>Shield</p>
---<img class="equip-img" src="blt_img_8.png" alt="Iron Round Shield">
--+<img class="equip-img" src="blt_img_8.png" alt="Makeshift Kite Shield">
----
-- <td>
-- <p>ThrowingJavelins</p>
---<img class="equip-img" src="blt_img_9.png" alt="Harpoon">
--+<img class="equip-img" src="blt_img_9.png" alt="Javelin">
----
-- <td>
-- <p>ThrowingJavelins</p>
---<img class="equip-img" src="blt_img_10.png" alt="Harpoon">
--+<img class="equip-img" src="blt_img_10.png" alt="Javelin">
----
-- <p>Athletic III: Athletics: +100</p>
-- <p>Crush Through I: 15% Unblockable / 15% Shatter Shield</p>
---<p>Heavy Hitting I: 125.0% dmg</p>
--+<p>Heavy Hitting III: 200.0% dmg</p>
----
-- <p class=power-title>Fireblade</p>
-- <p>[Fireblade I: Swing Speed Multiplier: 115% Melee: +25] requires CLASS LEVEL 1</p>
---<p>[Ignore Armor I: Ignore 15% Armor] requires CLASS LEVEL 1</p>
-- <p>[Fireblade II: Swing Speed Multiplier: 130% Melee: +50] requires CLASS LEVEL 2</p>
---<p>[Ignore Armor II: Ignore 30% Armor] requires CLASS LEVEL 2</p>
-- <p>[Fireblade III: Swing Speed Multiplier: 150% Melee: +100] requires CLASS LEVEL 3</p>
---<p>[Ignore Armor III: Ignore 60% Armor] requires CLASS LEVEL 3</p>
----
-- <td>
-- <p>Bow</p>
---<img class="equip-img" src="blt_img_17.png" alt="Ranger Bow">
--+<img class="equip-img" src="blt_img_17.png" alt="Mountain Hunting Bow">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_18.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_18.png" alt="Barbed Arrows">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_19.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_19.png" alt="Barbed Arrows">
----
-- <td>
-- <p>Bow</p>
---<img class="equip-img" src="blt_img_27.png" alt="Ranger Bow">
--+<img class="equip-img" src="blt_img_27.png" alt="Mountain Hunting Bow">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_28.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_28.png" alt="Barbed Arrows">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_29.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_29.png" alt="Barbed Arrows">
----
-- <td>
-- <p>OneHandedSword</p>
---<img class="equip-img" src="blt_img_40.png" alt="Long Saber">
--+<img class="equip-img" src="blt_img_40.png" alt="Dawnbreaker">
----
-- <td>
-- <p>OneHandedLance</p>
---<img class="equip-img" src="blt_img_57.png" alt="Long Thamaskene Tipped Spear">
--+<img class="equip-img" src="blt_img_57.png" alt="Fine Steel Spear">
----
-- <td>
-- <p>Shield</p>
---<img class="equip-img" src="blt_img_58.png" alt="Iron Round Shield">
--+<img class="equip-img" src="blt_img_58.png" alt="Makeshift Kite Shield">
----
-- <td>
-- <p>OneHandedSword</p>
---<img class="equip-img" src="blt_img_59.png" alt="Long Saber">
--+<img class="equip-img" src="blt_img_59.png" alt="Dawnbreaker">
----
-- <td>
-- <p>Horse</p>
---<img class="equip-img" src="blt_img_60.png" alt="Palmatian">
--+<img class="equip-img" src="blt_img_60.png" alt="Royal Destrier">
----
-- <td>
-- <p>OneHandedLance</p>
---<img class="equip-img" src="blt_img_67.png" alt="Long Thamaskene Tipped Spear">
--+<img class="equip-img" src="blt_img_67.png" alt="Fine Steel Spear">
----
-- <td>
-- <p>Shield</p>
---<img class="equip-img" src="blt_img_68.png" alt="Iron Round Shield">
--+<img class="equip-img" src="blt_img_68.png" alt="Makeshift Kite Shield">
----
-- <td>
-- <p>OneHandedMace</p>
---<img class="equip-img" src="blt_img_69.png" alt="Heavy Horsemans Mace">
--+<img class="equip-img" src="blt_img_69.png" alt="Militia Pernach">
----
-- <td>
-- <p>Bow</p>
---<img class="equip-img" src="blt_img_77.png" alt="Ranger Bow">
--+<img class="equip-img" src="blt_img_77.png" alt="Mountain Hunting Bow">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_78.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_78.png" alt="Barbed Arrows">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_79.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_79.png" alt="Barbed Arrows">
----
-- <td>
-- <p>OneHandedSword</p>
---<img class="equip-img" src="blt_img_80.png" alt="Long Saber">
--+<img class="equip-img" src="blt_img_80.png" alt="Dawnbreaker">
----
-- <td>
-- <p>Horse</p>
---<img class="equip-img" src="blt_img_81.png" alt="Palmatian">
--+<img class="equip-img" src="blt_img_81.png" alt="Royal Destrier">
----
-- <td>
-- <p>Bow</p>
---<img class="equip-img" src="blt_img_88.png" alt="Ranger Bow">
--+<img class="equip-img" src="blt_img_88.png" alt="Mountain Hunting Bow">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_89.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_89.png" alt="Barbed Arrows">
----
-- <td>
-- <p>Arrows</p>
---<img class="equip-img" src="blt_img_90.png" alt="Arrows">
--+<img class="equip-img" src="blt_img_90.png" alt="Barbed Arrows">
----
-- <td>
-- <p>ThrowingJavelins</p>
---<img class="equip-img" src="blt_img_100.png" alt="Harpoon">
--+<img class="equip-img" src="blt_img_100.png" alt="Javelin">
----
-- <td>
-- <p>ThrowingJavelins</p>
---<img class="equip-img" src="blt_img_101.png" alt="Harpoon">
--+<img class="equip-img" src="blt_img_101.png" alt="Javelin">
----
-- <td>
-- <p>Horse</p>
---<img class="equip-img" src="blt_img_102.png" alt="Palmatian">
--+<img class="equip-img" src="blt_img_102.png" alt="Royal Destrier">
----
-- <p>Retribution II: Reflect 25% damage</p>
-- <p>Retribution III: Reflect 50% damage</p>
---<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
--+<p>Healthy III: 250% HP</p>
-- <p>Healthy I: 150% HP</p>
-- <p>Healthy II: 200% HP</p>
---<p>Healthy III: 250% HP</p>
--+<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
--+<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
--+<p>Explosive Projectiles I: AoE: 50dmg in 4m from Ranged</p>
----
-- <p>Zerker Vampiric I: Absorb 40% of damage dealt as HP</p>
-- <p>Zerker Vampiric II: Absorb 20% of damage dealt as HP</p>
---<p>Zerker Vampiric III: Absorb 10% of damage dealt as HP</p>
----
-- <p>Explosive Projectiles II: AoE: 75dmg in 4m with  from Ranged</p>
-- <p>Explosive Projectiles III: AoE: 100dmg in 4m with  from Ranged</p>
--+<p>Ranger II: AI Shoot Frequency: 200%  AI Wait Before Shoot Factor: 50% Ranged: 150% </p>
+- ## check for correct file
+- echo "Found: $(ls -lt $archive | tail -n1)"
+--read -n1 -p "Continue? (y/n) " response
+-+read -n 1 -p "Continue? (y/n) " response
 diff --git a/shmoop/blt/index.html b/shmoop/blt/index.html
-index 42276c4..595de25 100644
+index 340072f..595de25 100644
 --- a/shmoop/blt/index.html
 +++ b/shmoop/blt/index.html
 --
+ <div class="content">
  <h1>ShmoopBLTSkrunkleDonk_V</h1>
- <p>Reconfigured insanity, updated april 16th</p>
--<a href="changelog.txt">Changelog for 2023-04-30</a>.<div class="toc-container">
+-<p>To get started you will first want to redeem a hero. To do so, use your twitch channel points to redeem "Adopt a Hero". If you want a specific faction you can type the faction name into the redeem, otherwise leave it blank for a random faction. The possible factions are: Aserai, Battania, Khuzait, Northern Empire, Southern Empire, Sturgia, Vlandia, Western Empire</p>.
+-
+-<p>Next you will want to choose a class. The possible classes are listed in this documentation under "Classes". Each class has various abilities tied to it's rank. You increase rank by participating in battles. Once you know what you want to play, type "!class <classname>" into chat. Your first class selection is free. Later, if you want to change classes you may do so for a small gold cost</p>.
+-
+-<p>Each stream you can redeem "Daily XP" and "Daily Gold" channel point redemptions. These will give you extra XP and gold respectively. You will want to redeem those each stream as they are free boosts. You will earn more gold and xp by participating in battles, by kills (and deaths) and by earning achievements</p>.
+-
+-<p>What do you spend money on? Firstly, by ranking up the tier of your gear; secondly, by hiring retinue to follow you into battle; and lastly by forging new weapons and armor. It's highly recommended to increase your gear tier to at least 4 or 5 before considering purchasing retinue. Forging new gear is an end-game option to gain the most powerful gear. To upgrade your equipment type "!equip" into chat. That will spend gold and raise the tier of your armor and weapons.</p>
+-
+-<a href="changelog.txt">Changelog for 2023-06-14</a>.<div class="toc-container">
++<p>Reconfigured insanity, updated april 16th</p>
 +<div class="toc-container">
 --
 diff --git a/shmoop/blt/update.sh b/shmoop/blt/update.sh
-index 5f810e4..69050ca 100755
+index 69050ca..ae9e0f6 100755
 --- a/shmoop/blt/update.sh
 +++ b/shmoop/blt/update.sh
 --
  ## check for correct file
  echo "Found: $(ls -lt $archive | tail -n1)"
--read -n1 -p "Continue? (y/n) " response
-+read -n 1 -p "Continue? (y/n) " response
+-read -n 1 -p "Continue? (y/n) " response
++read -n1 -p "Continue? (y/n) " response
+--
+ git commit -m "update from shmoop"
+ 
+-## push changes
+-git push origin master
++## push changes git push origin master
